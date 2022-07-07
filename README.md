@@ -1,3 +1,16 @@
+# The Last Dance
+
+This is an unofficial website about The Last Dance documentary in Netflix. It is developed using React.js. The purpose of this project was to learn and practice React.js knowledge and skills.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
